@@ -1,4 +1,4 @@
-const backendDomin = "backend-e-comm.vercel.app"
+const backendDomin = "http://backend-e-comm.vercel.app"
 
      ////"http://localhost:8080"
 
